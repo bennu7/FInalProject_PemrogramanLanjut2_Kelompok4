@@ -1,0 +1,9 @@
+C:\Users\ibnu\source\repos\FP_PL2_Semester3\Login\bin\Debug\Login.exe.config
+C:\Users\ibnu\source\repos\FP_PL2_Semester3\Login\bin\Debug\Login.exe
+C:\Users\ibnu\source\repos\FP_PL2_Semester3\Login\bin\Debug\Login.pdb
+C:\Users\ibnu\source\repos\FP_PL2_Semester3\Login\obj\Debug\Login.frmLogin.resources
+C:\Users\ibnu\source\repos\FP_PL2_Semester3\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\ibnu\source\repos\FP_PL2_Semester3\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\ibnu\source\repos\FP_PL2_Semester3\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\ibnu\source\repos\FP_PL2_Semester3\Login\obj\Debug\Login.exe
+C:\Users\ibnu\source\repos\FP_PL2_Semester3\Login\obj\Debug\Login.pdb
