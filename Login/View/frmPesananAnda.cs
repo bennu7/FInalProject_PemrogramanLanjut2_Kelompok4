@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Login
 {
-    public partial class frmTypeLaundry : Form
+    public partial class frmPesananAnda : Form
     {
-        public frmTypeLaundry()
+        public frmPesananAnda()
         {
             InitializeComponent();
         }

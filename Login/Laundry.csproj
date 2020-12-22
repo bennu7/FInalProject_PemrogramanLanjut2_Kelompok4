@@ -58,6 +58,30 @@
     <Compile Include="formLogin.Designer.cs">
       <DependentUpon>formLogin.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmMacamPaket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMacamPaket.Designer.cs">
+      <DependentUpon>frmMacamPaket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMacamToping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMacamToping.Designer.cs">
+      <DependentUpon>frmMacamToping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPesananAnda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPesananAnda.Designer.cs">
+      <DependentUpon>frmPesananAnda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTypeLaundry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTypeLaundry.Designer.cs">
+      <DependentUpon>frmTypeLaundry.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="formFirst.resx">
@@ -65,6 +89,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="formLogin.resx">
       <DependentUpon>formLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMacamPaket.resx">
+      <DependentUpon>frmMacamPaket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMacamToping.resx">
+      <DependentUpon>frmMacamToping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPesananAnda.resx">
+      <DependentUpon>frmPesananAnda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTypeLaundry.resx">
+      <DependentUpon>frmTypeLaundry.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
