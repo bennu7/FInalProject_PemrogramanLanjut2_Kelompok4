@@ -9,3 +9,7 @@ C:\Users\ibnu\source\repos\FP_PL2_Semester3\Login\obj\Debug\Login.exe
 C:\Users\ibnu\source\repos\FP_PL2_Semester3\Login\obj\Debug\Login.pdb
 C:\Users\ibnu\source\repos\FP_PL2_Semester3\Login\obj\Debug\Login.frmFirst.resources
 C:\Users\ibnu\source\repos\FP_PL2_Semester3\Login\obj\Debug\Login.frmLogin.resources
+C:\Users\ibnu\source\repos\FP_PL2_Semester3\Login\obj\Debug\Login.frmMacamPaket.resources
+C:\Users\ibnu\source\repos\FP_PL2_Semester3\Login\obj\Debug\Login.frmMacamToping.resources
+C:\Users\ibnu\source\repos\FP_PL2_Semester3\Login\obj\Debug\Login.frmPesananAnda.resources
+C:\Users\ibnu\source\repos\FP_PL2_Semester3\Login\obj\Debug\Login.frmTypeLaundry.resources

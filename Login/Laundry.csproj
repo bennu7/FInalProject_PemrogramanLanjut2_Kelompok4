@@ -46,60 +46,60 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="formFirst.cs">
+    <Compile Include="View\formFirst.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formFirst.Designer.cs">
+    <Compile Include="View\formFirst.Designer.cs">
       <DependentUpon>formFirst.cs</DependentUpon>
     </Compile>
-    <Compile Include="formLogin.cs">
+    <Compile Include="View\formLogin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formLogin.Designer.cs">
+    <Compile Include="View\formLogin.Designer.cs">
       <DependentUpon>formLogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmMacamPaket.cs">
+    <Compile Include="View\frmMacamPaket.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmMacamPaket.Designer.cs">
+    <Compile Include="View\frmMacamPaket.Designer.cs">
       <DependentUpon>frmMacamPaket.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmMacamToping.cs">
+    <Compile Include="View\frmMacamToping.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmMacamToping.Designer.cs">
+    <Compile Include="View\frmMacamToping.Designer.cs">
       <DependentUpon>frmMacamToping.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmPesananAnda.cs">
+    <Compile Include="View\frmPesananAnda.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmPesananAnda.Designer.cs">
+    <Compile Include="View\frmPesananAnda.Designer.cs">
       <DependentUpon>frmPesananAnda.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmTypeLaundry.cs">
+    <Compile Include="View\frmTypeLaundry.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmTypeLaundry.Designer.cs">
+    <Compile Include="View\frmTypeLaundry.Designer.cs">
       <DependentUpon>frmTypeLaundry.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="formFirst.resx">
+    <EmbeddedResource Include="View\formFirst.resx">
       <DependentUpon>formFirst.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="formLogin.resx">
+    <EmbeddedResource Include="View\formLogin.resx">
       <DependentUpon>formLogin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmMacamPaket.resx">
+    <EmbeddedResource Include="View\frmMacamPaket.resx">
       <DependentUpon>frmMacamPaket.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmMacamToping.resx">
+    <EmbeddedResource Include="View\frmMacamToping.resx">
       <DependentUpon>frmMacamToping.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmPesananAnda.resx">
+    <EmbeddedResource Include="View\frmPesananAnda.resx">
       <DependentUpon>frmPesananAnda.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmTypeLaundry.resx">
+    <EmbeddedResource Include="View\frmTypeLaundry.resx">
       <DependentUpon>frmTypeLaundry.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -123,6 +123,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controller\" />
+    <Folder Include="Model\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
